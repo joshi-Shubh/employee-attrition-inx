@@ -41,8 +41,8 @@ This project leverages data science to:
 
 ## ✅ Results
 
-- Best Model: **Random Forest** (or update with your actual best)
-- Accuracy: **XX%**
+- Best Model: CatBoost	
+- Accuracy: **92%**
 - Top attrition drivers: job role, monthly income, satisfaction, years at company, etc.
 - SHAP plots provide transparent insight for HR decision-making
 
