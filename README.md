@@ -35,7 +35,6 @@ This project leverages data science to:
   - Random Forest
   - XGBoost
   - Decision Tree
-- SHAP for explainability
 
 ---
 
@@ -44,7 +43,7 @@ This project leverages data science to:
 - Best Model: CatBoost	
 - Accuracy: **92%**
 - Top attrition drivers: job role, monthly income, satisfaction, years at company, etc.
-- SHAP plots provide transparent insight for HR decision-making
+
 
 ---
 
